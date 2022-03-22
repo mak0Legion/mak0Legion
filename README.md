@@ -1,15 +1,16 @@
-<div align="center">Contact me Here !! :) 
-<img src="https://github.com/mak0Legion/mak0Legion/blob/main/barcode.gif" align="center" style="width: 10%" />
+
+<div align="center">
+<img src="https://github.com/mak0Legion/mak0Legion/blob/main/barcode.gif" align="center" style="width: 35%" />
 </div>  
   
 
 ### <div align="center">Aspiring DevOps Engineer</div>  
   
 
-- ☸ I am currently learning K8s.  
+- ☸ I am currently learning Kubernetes & other devOps Tools.  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 Life is I/O | take/give  
   
 
 - ❓ Ask me about anything related to Linux and related technologies  
