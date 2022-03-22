@@ -1,6 +1,6 @@
 ### Hi there !👋 
-#I am Piyush
-#Reach me out here ![alt text for screen readers](https://github.com/mak0Legion/mak0Legion/blob/main/barcode.gif)
+### I am Piyush
+#### Reach me out here ![alt text for screen readers](https://github.com/mak0Legion/mak0Legion/blob/main/barcode.gif)
 
 <!--
 **mak0Legion/mak0Legion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
