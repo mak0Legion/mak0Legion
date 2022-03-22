@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/mak0Legion/mak0Legion/blob/main/barcode.gif" align="center" style="width: 30%" />
+<img src="https://github.com/mak0Legion/mak0Legion/blob/main/barcode.gif" align="center" style="width: 25%" />
 </div>  
   
 
