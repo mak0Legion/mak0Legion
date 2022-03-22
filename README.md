@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/mak0Legion/mak0Legion/blob/main/barcode.gif" align="center" style="width: 100%" />
+<img src="https://github.com/mak0Legion/mak0Legion/blob/main/barcode.gif" align="center" style="width: 50%" />
 </div>  
   
 
